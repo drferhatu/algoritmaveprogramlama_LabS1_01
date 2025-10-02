@@ -1,119 +1,152 @@
 # Algoritma ve Programlama - I: Hafta 1 Laboratuvar Görevleri
 
-Ders: Algoritma ve Programlama - I 
+🚀 Algoritma ve Programlama - I
+Hafta 1 Laboratuvar Görevleri
 
-Hafta 1 - Araçlarla Tanışma ve Algoritma Düşüncesi 
+Ders: Algoritma ve Programlama - I
+Hafta: 1 - Araçlarla Tanışma ve Algoritma Düşüncesi
+Eğitmenler:
 
-Eğitmenler: Doç. Dr. Ferhat Uçar, Arş. Gör. Ömer Miraç Kökçam 
+Doç. Dr. Ferhat Uçar
 
-Bu laboratuvar görevi, kod yazmadan önce algoritmik düşünme becerisini geliştirmeye ve yapay zeka (LLM) araçlarını bir öğrenme yardımcısı olarak etkili bir şekilde kullanmayı öğrenmeye odaklanmaktadır. 
+Arş. Gör. Ömer Miraç Kökçam
 
-🎯 Ana Amaç
-Bu görevin temel amacı, 5 farklı kategoride problem için algoritmalar tasarlayarak algoritmik düşünce yeteneğinizi geliştirmektir. Bu süreçte kod yazmayacaksınız; yalnızca problemlerin çözüm mantığına ve bunu pseudocode (sözde kod) ile ifade etmeye odaklanacaksınız. 
+🎯 Amaç
+
+Bu haftaki laboratuvar, algoritmik düşünme becerilerini geliştirmek ve LLM (ChatGPT, Gemini, Claude vb.) araçlarını öğrenme yardımcısı olarak kullanmayı deneyimlemek üzerine tasarlanmıştır.
+
+📌 Bu süreçte kod yazmayacaksınız. Yalnızca problemlerin çözüm mantığını ve pseudocode (sözde kod) ile ifade etmeyi hedefleyeceksiniz.
 
 📝 Görevler
-Bu assignment kapsamında aşağıda belirtilen 5 görevi tamamlamanız gerekmektedir. Her bir görev için LLM (ChatGPT, Gemini, Claude vb.) araçlarından yardım alarak çözüm adımlarını geliştirmelisiniz. 
+
+Aşağıdaki 5 görevi tamamlamanız gerekiyor. Her bir görev için:
+
+Problemi analiz edin.
+
+Adım adım pseudocode yazın.
+
+LLM araçlarından aldığınız yardımı, sorularınızı ve cevaplarını da ekleyin.
+
+Farklı çözüm yollarını tartışın.
+
+🔹 Görev 1: Günlük Hayat Algoritması
+
+Koşullar (if-else) ve döngüler (loops) içeren bir algoritma yazın.
+
+Seçenekler:
+
+🥚 Mükemmel omlet yapma
+
+🎓 En kısa sürede üniversiteye gitme
+
+📚 Sınav çalışma planı
+
+🛒 Optimum bütçeli market alışverişi
+
+🎮 Favori oyunda yüksek skor alma
+
+🔹 Görev 2: Oyun Stratejisi Algoritması
+
+Bir oyunda karar verme mantığını ve rakip hamlelerini öngörmeyi içeren algoritma yazın.
+
+Seçenekler:
+
+❌⭕ Tic-Tac-Toe kazanma stratejisi
+
+🔢 Sayı tahmin oyununda optimal strateji
+
+🏠 Monopoly’de en iyi hamle seçimi
+
+🃏 Basit kart oyunu stratejisi
+
+🔲 Sudoku çözme yaklaşımı
+
+🔹 Görev 3: Veri Organizasyonu Algoritması
+
+Veri sıralama, düzenleme veya arama üzerine algoritma yazın.
+
+Seçenekler:
+
+📊 Sınıf notlarını yüksekten düşüğe sıralama
+
+📒 Telefon rehberini alfabetik düzenleme
+
+📚 Kütüphanede kitap arama sistemi
+
+🏪 Market envanterini kategorilere ayırma
+
+🎵 Müzik koleksiyonunu düzenleme
+
+🔹 Görev 4: Problem Çözme Algoritması
+
+Böl ve Fethet (Divide & Conquer) yaklaşımıyla karmaşık bir problemi çözün.
+
+Seçenekler:
+
+✏️ İki büyük sayıyı kağıt-kalemle çarpma
+
+🎂 N kişi için adil pasta paylaşımı
+
+🚌 Otobüs rotası optimizasyonu
+
+🧩 Lego ile belirli şekil yapma
+
+🎨 Renkleri karıştırarak hedef rengi bulma
+
+🔹 Görev 5: Üretken Algoritma Projesi
+
+Kendi ilginize göre özgün bir problem seçip çözüm algoritması geliştirin.
+
+Örnek fikirler:
+
+☕ İdeal kahve demleme
+
+📱 Sosyal medyada viral olma
+
+🤳 Mükemmel selfie çekme adımları
+
+👥 Arkadaş grubunda ortak karar verme sistemi
 
 📂 Teslimat Formatı
-Her bir görev için bu repository içerisinde ayrı bir .txt dosyası oluşturmalısınız. (Örn: gorev1.txt, gorev2.txt, ...). 
 
-Her bir .txt dosyasının en başına öğrenci numaranızı, adınızı ve soyadınızı yazmalısınız.
+Her görev için ayrı .txt dosyası oluşturun. (Örn: gorev1.txt, gorev2.txt, …)
 
-Her dosya, ilgili algoritmanın adım adım pseudocode halini, farklı çözüm versiyonlarının karşılaştırmasını ve algoritmayı geliştirirken LLM ile yaptığınız konuşmaların (diyalog) geçmişini içermelidir. 
+Dosya başına öğrenci numarası, ad, soyad yazın.
 
+İçerik:
 
-Görev 1: Günlük Hayat Algoritması 
+Pseudocode (adım adım)
 
-Aşağıdaki konulardan birini seçerek, koşullu durumlar (if-else) ve tekrar eden işlemler (döngüler) içeren adım adım bir pseudocode geliştirin. 
+Farklı çözüm versiyonlarının karşılaştırması
 
-Seçenekler:
-
-Mükemmel omlet yapma algoritması 
-
-En kısa sürede üniversiteye gitme algoritması 
-
-Sınav çalışma planı oluşturma algoritması 
-
-Optimum bütçeli market alışverişi algoritması 
-
-Favori oyununda yüksek skor alma algoritması 
-
-
-Görev 2: Oyun Stratejisi Algoritması 
-
-Bir oyun için karar verme mantığını, rakip hamlelerini öngörmeyi ve optimal stratejiyi içeren bir algoritma tasarlayın. 
-
-Seçenekler:
-
-Tic-Tac-Toe'da kazanma stratejisi 
-
-Sayı tahmin oyununda optimal strateji 
-
-Monopoly'de en iyi hamle seçimi 
-
-Basit bir kart oyunu stratejisi 
-
-Sudoku çözme yaklaşımı 
-
-
-Görev 3: Veri Organizasyonu Algoritması 
-
-Verileri düzenleme, sıralama ve arama gibi temel kavramları kullanarak bir algoritma oluşturun. 
-
-Seçenekler:
-
-Sınıf notlarını en yüksekten en düşüğe sıralama 
-
-Telefon rehberini alfabetik düzenleme 
-
-Kütüphanede bir kitap arama sistemi 
-
-Market envanterini kategorilere ayırma 
-
-Müzik koleksiyonunu düzenleme 
-
-
-Görev 4: Problem Çözme Algoritması 
-
-Karmaşık bir problemi daha küçük ve yönetilebilir parçalara ayırma ("böl ve fethet") mantığını kullanarak bir çözüm algoritması geliştirin. 
-
-
-Seçenekler:
-
-İki büyük sayıyı kağıt kalemle çarpma 
-
-N kişi için adil pasta paylaşımı 
-
-Otobüs rotası optimizasyonu 
-
-Lego ile belirli bir şekil yapma planı 
-
-Renkleri karıştırarak hedef rengi elde etme 
-
-
-Görev 5: Üretken Algoritma Projesi 
-
-Kendi ilgi alanınızdan özgün bir problem belirleyip bu probleme yönelik yaratıcı ve daha önce düşünmediğiniz bir çözüm algoritması tasarlayın. Bu görevde üretkenliğiniz ön plandadır. 
-
-
-Örnek Fikirler:
-
-İdeal kahve demleme algoritması 
-
-Sosyal medyada viral olma stratejisi 
-
-Mükemmel selfie çekme adımları 
-
-Arkadaş grubunda ortak karar verme sistemi 
+LLM ile yaptığınız konuşmaların geçmişi
 
 📈 Değerlendirme Kriterleri
-Teslimleriniz aşağıdaki kriterlere göre değerlendirilecektir:
-Algoritma Kalitesi (%40): Adımların mantıksal tutarlılığı, koşullu durumları ve farklı senaryoları kapsaması, pseudocode'un anlaşılırlığı. -
-LLM Kullanımı (%30): Yapay zekaya etkili ve öğrenme odaklı sorular sorma, cevapları eleştirel değerlendirme ve çözümü iteratif olarak geliştirme. 
-Üretkenlik (%20): (Özellikle Görev 5 için) Özgün problem seçimi ve yaklaşımlar, yaratıcı çözümler geliştirme. 
-Sunum (%10): Dosya yapısının düzenliliği, açıklamaların netliği ve görevin eksiksiz teslim edilmesi. 
-
+Kriter	Yüzde
+🧠 Algoritma Kalitesi	%40
+🤖 LLM Kullanımı	%30
+💡 Üretkenlik	%20
+🗂️ Sunum ve Düzen	%10
 📅 Teslim Tarihi
-Tüm görev dosyaları, gelecek hafta yapılacak laboratuvar dersinin başlangıcına kadar bu GitHub repository'sine push edilmiş olmalıdır. 
 
-Başarılar dileriz!
+Tüm görev dosyaları, gelecek hafta yapılacak laboratuvar dersinin başlangıcına kadar bu GitHub repository’sine push edilmiş olmalıdır.
+
+🛠️ GitHub Üzerinden Dosya Düzenleme ve Commit
+
+GitHub’da ilgili repo sayfasını açın.
+
+Düzenlemek istediğiniz dosyaya tıklayın.
+
+Sağ üstteki ✏️ (Edit this file) butonuna basın.
+
+Dosya içeriğinizi ekleyin veya güncelleyin.
+
+Sayfanın en altındaki Commit changes bölümünde:
+
+Commit mesajı yazın (örn: “Görev 1 eklendi”).
+
+Commit directly to the main branch seçili olsun.
+
+✅ Commit changes butonuna basarak değişiklikleri kaydedin.
+
+Artık dosyanız başarıyla repoya eklenmiş olacak! 🎉
